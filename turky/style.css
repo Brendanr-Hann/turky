@@ -1,0 +1,22 @@
+body{
+	background-color: lightblue;
+	
+}
+
+p{
+	font-size:90%;
+	color: purple;
+	margin-left: 20px;
+}
+
+img{
+	width: 580pxz;
+	padding: 25px;
+	border: 25px solid purple;
+	margin: 25px;
+	display: none;
+	width: 30%;
+} 
+table{
+	margin:25px;
+}
